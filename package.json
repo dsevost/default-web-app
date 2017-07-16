@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dsevost/default-web-app/issues"
   },
+  "dependencies": {
+    "express": "4.15.3"
+  },
   "homepage": "https://github.com/dsevost/default-web-app#readme"
 }
